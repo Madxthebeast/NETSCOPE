@@ -1,0 +1,6 @@
+1. Extract this ZIP to a normal folder (not inside the ZIP).
+2. Install Python 3.10+ 64-bit (Add to PATH).
+3. Install Nmap (https://nmap.org/download.html) - optional but needed for scans.
+4. Double-click run_netscope_windows.bat
+5. check_dependencies_windows.bat shows what is missing.
+Scan only systems you are authorized to test.
